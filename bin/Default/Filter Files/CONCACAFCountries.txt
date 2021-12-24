@@ -1,0 +1,30 @@
+Antigua,CONCACAF,0.0,0.0,0.0 
+Aruba,CONCACAF,0.0,0.0,0.0 
+Bahamas,CONCACAF,0.0,0.0,0.0 
+Barbados,CONCACAF,0.0,0.0,0.0 
+Bermuda,CONCACAF,0.0,0.0,0.0 
+Canada,CONCACAF,0.5,0.5,1.0 
+Cayman-Islands,CONCACAF,0.0,0.0,0.0 
+Costa Rica,CONCACAF,0.1,0.2,0.1 
+Cuba,CONCACAF,0.2,0.3,0.3 
+Curacao,CONCACAF,0.0,0.0,0.0 
+Dominica,CONCACAF,0.0,0.0,0.0 
+Dominica_Republic,CONCACAF,0.1,0.2,0.1 
+El_Salvador,CONCACAF,0.1,0.2,0.1 
+Grenada,CONCACAF,0.0,0.0,0.0 
+Guatemala,CONCACAF,0.2,0.2,0.1 
+Guyana,CONCACAF,0.0,0.0,0.0 
+Haiti,CONCACAF,0.1,0.1,0.0 
+Honduras,CONCACAF,0.1,0.3,0.1 
+Jamaica,CONCACAF,0.0,0.1,0.0 
+Mexico,CONCACAF,1.7,3.2,2.6 
+Nicaragua,CONCACAF,0.1,0.1,0.0 
+Panama,CONCACAF,0.1,0.1,0.1 
+St.Kitts,CONCACAF,0.0,0.0,0.0 
+St.Lucia,CONCACAF,0.0,0.0,0.0 
+St.Maarten,CONCACAF,0.0,0.0,0.0 
+St.Vincent,CONCACAF,0.0,0.0,0.0 
+Suriname,CONCACAF,0.0,0.0,0.0 
+TrinidadTobago,CONCACAF,0.0,0.0,0.0 
+Turks&Caicos,CONCACAF,0.0,0.0,0.0 
+United_States,CONCACAF,4.5,4.3,9.7 
